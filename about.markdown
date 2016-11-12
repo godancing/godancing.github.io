@@ -1,4 +1,5 @@
 ---
+title: About
 ---
 
 Who are those folks and what's their purpose, anyway?
