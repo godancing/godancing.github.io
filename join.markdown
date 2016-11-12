@@ -1,4 +1,5 @@
 ---
+title: Become a Member
 ---
 
 Donate and/or Become a Member of 
