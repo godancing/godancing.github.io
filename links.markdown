@@ -1,4 +1,5 @@
 ---
+title: Links to Music and Dance Sites
 ---
 
 #### [Goshen Area Callers, Musicans, & GCCD board info](GOTLinks.html)
