@@ -1,5 +1,6 @@
 ---
-title: Become a Member
+title: Join / Donate
+order: 3
 ---
 
 Donate and/or Become a Member of 

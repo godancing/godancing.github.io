@@ -1,5 +1,7 @@
 ---
 title: Old-Time Fiddle Tune Jam
+shortTitle: Jam Sessions
+order: 4
 ---
 
 #Old-Time Fiddle Tune Jam

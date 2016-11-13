@@ -1,7 +1,7 @@
 ---
 title: Goshen Community Contra Dancing
 date: 2016-11-12 12:14:00 -05:00
-isIndex: true
+order: 1
 ---
 
 Come contra dancing the first Saturday of each month in downtown Goshen, IN.
