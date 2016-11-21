@@ -1,8 +1,8 @@
 ---
 title: Learn to Dance
+date: 2016-11-12 12:14:00 -05:00
 heading: Learn to Contra Dance
 subheading: Resources for beginners
-date: 2016-11-12 12:14:00 -05:00
 order: 2
 ---
 
