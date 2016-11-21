@@ -9,7 +9,14 @@ function debounce(func, wait) {var timeout;return function() {var context = this
 {
 	var nav = document.getElementById('nav'),
 		toggle = document.getElementById('nav__toggle'),
-		navMenu = document.getElementById('nav__menu');
+		navMenu = document.getElementById('nav__menu'),
+		stylesheets = document.styleSheets;
+
+	// Based on number of menu items, set height of opened mobile nav
+	var itemsCount = navMenu.querySelectorAll('li').length;
+	var navOpenHeight = 4 + ( itemsCount * 2.375 ) + 'em';
+	stylesheets[0].addRule('nav.nav--open', 'height: ' + navOpenHeight, 1 );
+
 
 	function toggleHorizontal() 
 	{
@@ -43,4 +50,14 @@ function debounce(func, wait) {var timeout;return function() {var context = this
 	});
 
 	window.addEventListener('resize', debounce( closeMenu, 200 ));
+}();
+
+// Add classes to images and their wrapping paragraphs
+!function () 
+{
+	images = document.querySelectorAll('.entry p > img');
+	for (var i = 0; i < images.length; i++) {
+		images[i].classList.add('pure-img');
+		images[i].parentElement.classList.add('img-wrap');
+	}
 }();
