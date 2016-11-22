@@ -17,56 +17,56 @@ order: 1
 	<a class="pure-button pure-button-outline" href="/beginners">New to Contra Dance?</a>
 </div>
 	
-##Dance Schedule
+## Dance Schedule
 
-###Sep 3, 2016
+### Sep 3, 2016
 Caller: Thos Lankston (South Bend, IN)<br>
 Band: Soltre (Michiana)
 
-###Oct 1, 2016
+### Oct 1, 2016
 Caller: Barry Dupen (Columbia City, IN)<br>
 Band: Waterbound (Michiana)
 
-###Nov 5, 2016
+### Nov 5, 2016
 Caller: Casey Mullaney (South Bend, IN)<br>
 Band: Riverrun country dance band  (South Bend, IN)
 
-###Dec 3, 2016
+### Dec 3, 2016
 Caller: Karin Neils (Holland, MI)<br>
 Band: Spy Run String Band (Fort Wayne, IN)
 
-###Jan 7, 2017
+### Jan 7, 2017
 Caller: TBA<br>
 Band: Scarlet Runner String Band (Lansing, MI)
 
-###Feb 4, 2017
+### Feb 4, 2017
 Caller: Barry Dupen (Columbia City, IN)<br>
 Band: Band O' Goshen (Goshen, IN)
 
-###Mar 4, 2017
+### Mar 4, 2017
 Caller: Thos Lankston (South Bend, IN)<br>
 Band: Jesse and Friends (Goshen, IN)
 
-###April 1, 2017
+### April 1, 2017
 Caller: Laurie Pietravalle (Grand Rapids, MI)<br>
 Band: TBA
 
-###May 6, 2017
+### May 6, 2017
 Caller: TBA<br>
 Band: Band O' Goshen (Goshen, IN)
 
-###June 3, 2017
+### June 3, 2017
 Caller: TBA<br>
 Band: TBA
 
-##At the Dance
+## At the Dance
 
-###Time
+### Time
 **Beginners' workshop:** 7 - 7:30 pm EST<br>
 **Contra Dance:** 7:30 - 10:30 pm EST
 
 
-###Place
+### Place
 First United Methodist Church<br>
 215 South 5th St.<br>
 Goshen, IN
@@ -79,7 +79,7 @@ Goshen, IN
 	View in Google Maps
 </a>
 
-###Cost
+### Cost
 **General Public:** Non-members $8, Members $6<br>
 **Students:** Non-members $5, Members $3<br>
 **Children under 12:** Free<br>
@@ -87,11 +87,11 @@ Goshen, IN
 
 Learn how to [become a member](/membership).
 
-###What to wear
+### What to wear
 Layers of comfortable, lightweight clothing and shoes for active movement.
 
 You'll be dancing on a springy wood floor!
 
-###Questions?
+### Questions?
 Email [info.godancing@gmail.com](mailto:info.godancing@gmail.com) or call (574) 533-3836.
 
