@@ -6,6 +6,8 @@ order: 3
 Donate and/or Become a Member of 
 Goshen Community Contra Dancing!
 
+![A test image](/uploads/contra%201600_mini.jpg)
+
 Please consider joining GO Dancing! as a Member, at a (tax-deductible*) cost of $15 per student, $25 per individual, $40 per family, or $50, $100 or $150 as a Sponsor. Memberships help cover the expenses of hiring callers and musicians.
 
 Benefits of membership include $2 off admission to every dance this season (September through June). In addition, Members are eligible to vote for Officers and Board Members at the annual meeting. Donations of any amount for purposes other than membership are also most welcome.
