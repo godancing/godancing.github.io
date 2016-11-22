@@ -57,6 +57,10 @@ main {
 }
 .banner-image {
 	background-repeat: no-repeat;
+	background-size: contain;
+	/* Assume uploaded images are 1600px wide */
+	max-width: 1600px;
+	margin: 0 auto;
 }
 @media (max-width: 47.99em) {
 	.banner-image {
