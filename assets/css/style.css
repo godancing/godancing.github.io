@@ -130,7 +130,7 @@ Entry (main page content)
 .entry {
 	padding: 1em 2em 2em;
 	border-radius: 3px;
-	margin-bottom: 10em;
+	margin-bottom: 3em;
 	background-color: white;
 	border: 1px solid rgba(17, 18, 19, .075);
 	/*box-shadow: 1px 2px 5px var(--light-gray);*/
@@ -307,66 +307,11 @@ http://purecss.io/layouts/tucked-menu-vertical/
 }
 
 /*
-Banner image on homepage
+Copyright notice in footer
 ------------------------------------------------ */
-/*.banner {
-	position: relative;
-	padding-bottom: 47%;
-	background-image: url(/assets/images/good-of-goshen-contra-dance-top.jpg);
-	background-size: cover;
+.copyright {
+	text-align: center;
+	color: rgba(17, 18, 19, .5);
+	font-size: 14px;
+	margin-bottom: 48px;
 }
-	.banner:before {
-		content: "";
-		position: absolute;
-		top: 0;
-		left: 0;
-		display: block;
-		width: 100%;
-		height: 100%;
-		z-index: 1;
-		background: linear-gradient(to bottom, rgba(255, 132, 123, .33), rgba(232, 74, 95, .95));
-	}
-	.banner__text {
-		position: absolute;
-		width: 100%;
-		bottom: 10%;
-		z-index: 2;
-		text-align: center;
-		line-height: 1.5;
-	}
-	.banner__cta {
-		color: black;
-		margin: 0;
-	}
-	.banner__description {
-		color: rgb(21, 27, 29);
-	}
-
-	@media (min-width: 500px) {
-		.banner__description {
-			font-size: 133.33%;
-		}
-	}
-
-	@media (min-width: 800px) {
-		.banner__description {
-			font-size: 150%;
-		}
-		.banner {
-			padding-bottom: 40%;
-		}
-	}*/
-
-
-/**
- * Colors:
- * dark gray: 42, 54, 59
- * dark red: 232, 74, 95
- * pink: 255, 132, 123
- * tan: 254, 206, 168
- */
-
-/*
-...
-...
------------------------------------------------- 
