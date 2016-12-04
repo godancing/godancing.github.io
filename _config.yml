@@ -17,4 +17,9 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: dances
+  values:
+    test: Name (Location)
 permalink: pretty
