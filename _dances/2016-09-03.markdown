@@ -1,5 +1,9 @@
 ---
 title: Sep. 3, 2016
 date: 2016-09-03 12:24:00 -04:00
+Caller:
+  Name: Thos Lankston (South Bend, IN)
+Band:
+  Name: Soltre (Michiana)
 ---
 
