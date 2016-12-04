@@ -1,8 +1,9 @@
 ---
 title: Dec 3, 2016
-date: 2016-12-03 12:00:00 -04:00
+date: 2016-12-03 11:00:00 -05:00
 Caller:
   Name: Karin Neils (Holland, MI)
 Band:
   Name: Spy Run String Band (Fort Wayne, IN)
 ---
+
