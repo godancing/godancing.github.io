@@ -23,7 +23,6 @@ defaults:
   values:
     test: Name (Location)
     caller:
-        name: Name (Location)
-        website: ''
-
+      name: Name (Location)
+      website: ''
 permalink: pretty
