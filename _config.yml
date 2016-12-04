@@ -21,7 +21,6 @@ defaults:
     path: ''
     type: dances
   values:
-    Date: ''
     Caller:
       Name: Caller Name (Location)
       Website: ''
