@@ -1,0 +1,8 @@
+---
+title: May 6, 2017
+date: 2017-05-06 12:00:00 -04:00
+Caller:
+  Name: TBA
+Band:
+  Name: Band O' Goshen (Goshen, IN)
+---

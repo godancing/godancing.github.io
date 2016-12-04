@@ -1,0 +1,8 @@
+---
+title: Jan 7, 2017
+date: 2017-01-07 12:00:00 -04:00
+Caller:
+  Name: TBA
+Band:
+  Name: Scarlet Runner String Band (Lansing, MI)
+---
