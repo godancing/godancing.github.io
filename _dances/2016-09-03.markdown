@@ -1,9 +1,12 @@
 ---
-title: Test Dance
+title: Sep. 3, 2016
 date: 2016-11-12 12:24:00 -05:00
-Date: 2016-09-03 15:00:00 -04:00
-Caller: Thos Lankston (South Bend, IN)
-Band: Soltre (Michiana)
+Date: 2016-09-03 00:00:00 -04:00
+Caller:
+  name: Thos Lankston (South Bend, IN)
+  website: 
+Band:
+  name: Soltre (Michiana)
+  website: 
 ---
 
-some basic content...
