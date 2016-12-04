@@ -22,4 +22,8 @@ defaults:
     type: dances
   values:
     test: Name (Location)
+    caller:
+        name: Name (Location)
+        website: ''
+
 permalink: pretty
