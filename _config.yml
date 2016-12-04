@@ -21,8 +21,11 @@ defaults:
     path: ''
     type: dances
   values:
-    test: Name (Location)
-    caller:
-      name: Name (Location)
-      website: ''
+    Caller:
+      Name: Caller Name (Location)
+      Website: ''
+    Band:
+      Name: Band Name (Location)
+      Website: ''
+
 permalink: pretty
