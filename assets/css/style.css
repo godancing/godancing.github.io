@@ -34,6 +34,8 @@ Colors
 :root {
   --text: #333;
   --text-accent: #384d9d;
+  --text-accent: #9B1B25;
+  --text-accent-light: #DB4C40;
   --lightest-gray: #f6f3eb;
   --light-gray: #C3C0B8;
   --medium-gray: #908D85;
@@ -67,26 +69,31 @@ h1 {
 	margin-top: 1em;
 }*/
 h2, h3, h4, h5 {
-	color: var(--text-accent);
 	margin-bottom: .5em; 
+}
+h2 {
+	color: var(--text-accent);
+}
+h3, h4, h5 {
+	color: var(--text-accent-light);
 }
 p {
 	margin-top: .5em;
 }
 a {
-	color: var(--text-accent);
+	color: var(--text-accent-light);
 }
 .pure-button {
 	margin: .5em .25em .5em 0;
 }
 .pure-button-outline {
 	padding: calc(.5em - 2px) calc(1em - 2px);
-	color: var(--text-accent) !important;
-	border: 2px solid var(--text-accent);
+	color: var(--text-accent-light) !important;
+	border: 2px solid var(--text-accent-light);
 	background: transparent !important;
 }
 .pure-button-primary {
-	background-color: var(--text-accent) !important;
+	background-color: var(--text-accent-light) !important;
 	color: white !important;
 }
 .centered {
@@ -130,8 +137,8 @@ Entry (main page content)
 	border-radius: 3px;
 	margin-bottom: 3em;
 	background-color: white;
-	border: 1px solid rgba(17, 18, 19, .075);
-	/*box-shadow: 1px 2px 5px var(--light-gray);*/
+	/*border: 1px solid rgba(17, 18, 19, .075);*/
+	box-shadow: .1em .2em .5em rgba(17, 18, 19, .125);
 }
 .entry ul {
 	padding-left: 1.25em;
@@ -175,11 +182,15 @@ Image Banner at top of homepage
 ------------------------------------------------ */
 .banner {
 	position: relative;
+	margin-top: 50px; /* compensate for .nav */
 	background: rgb(17, 18, 19);
 }
 .banner__image {
 	margin: 0 auto;
 	width: 1200px;
+	/* for mobile */
+	max-width: 140%;
+	margin-left: -20%;
 }
 .banner__viel {
 	position: absolute;
@@ -187,34 +198,69 @@ Image Banner at top of homepage
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(17, 18, 19, .45);
+	background: rgba(17, 18, 19, .2);
 	position: absolute;
 }
 .banner__content {
 	/* vertically & horizontally centered */
 	position: absolute;
+	width: 100%;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	text-align: center;
-	text-shadow: 0 -.2em 1em rgba(17, 18, 19, .5);
+	text-shadow: 0 -.2em 1em rgba(17, 18, 19, .75);
 }
 .banner__heading {
 	-webkit-font-smoothing: antialiased;
 	font-family: 'Leckerli One', serif;
 	font-weight: normal;
-	font-size: 80px;
-	line-height: 96px;
-	margin: -1em 0 0;
+	
+	font-size: 54px;
+	line-height: 64px;
+	/*margin: -1em 0 0;*/
 	color: white;
 }
 .banner__sub-heading {
 	font-size: 24px;
 	display: inline-block;
+	margin-bottom: 0;
 	color: rgba(255, 255, 255, .9);
 }
-.has-banner .entry-wrapper {
-	margin-top: -10em;
+/* for tablet */
+@media (min-width: 480px) {
+	.banner__image {
+		max-width: 100%;
+		margin-left: auto;
+	}
+	.banner__heading { 
+		font-size: 64px;
+		line-height: 80px;
+	}
+}
+@media (min-width: 48em) {
+	.banner { 
+		margin-top: 0;
+	}
+	.banner__content {
+		padding-bottom: calc(5em - 50px);
+	}
+	.banner__heading { 
+		font-size: 80px;
+		line-height: 96px;
+	}
+	.has-banner .entry-wrapper {
+		margin-top: -5em;
+	}
+}
+/* desktop */
+@media (min-width: 64em) {
+	.banner__content {
+		padding-bottom: calc(10em - 50px);
+	}
+	.has-banner .entry-wrapper {
+		margin-top: -10em;
+	}
 }
 
 /*
@@ -234,16 +280,20 @@ http://purecss.io/layouts/tucked-menu-vertical/
 	background-color: var(--text-accent);
 	
 	color: rgba(255, 255, 255, .95);
-	/*box-shadow: 0 -.2em 1em var(--text-accent);*/
-	border-bottom-right-radius: 3px;
-	border-bottom-left-radius: 3px;
+	box-shadow: .1em .2em .5em rgba(17, 18, 19, .125);
+	
 
-	/*-webkit-font-smoothing: antialiased;*/
 	-webkit-transition: height 0.3s;
 	transition: height 0.3s;
 }
 .has-banner .nav {
-	background-color: rgba(0,0,0,.25);
+	box-shadow: .1em .2em .5em rgba(17, 18, 19, .25);
+}
+@media (min-width: 48em) {
+	.nav {
+		border-bottom-right-radius: 3px;
+		border-bottom-left-radius: 3px;
+	}
 }
 
 /* height defined by JS based on number of menu items */
@@ -260,7 +310,7 @@ http://purecss.io/layouts/tucked-menu-vertical/
 .pure-menu-link:hover, .pure-menu-link:focus, 
 .pure-menu-heading:hover, .pure-menu-heading:focus {
 	background-color: transparent;
-	text-shadow: 0 -.2em 1em rgba(17, 18, 19, .5);
+	text-shadow: 0 0 .5em rgba(17, 18, 19, .33);
 	color: white;
 }
 
