@@ -1,6 +1,6 @@
 ---
 title: Goshen Community Contra Dancing
-date: 2016-11-12 12:14:00 -05:00
+date: 2016-11-12 12:12:00 -05:00
 heading: Go Dancing!
 subheading: First Saturdays at 7:30pm in Goshen, IN
 image: "/uploads/contra-1600_mini.jpg"
