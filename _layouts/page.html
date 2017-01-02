@@ -60,7 +60,7 @@
 		{% endif %}
 		
 		<div class="centered-wrapper entry-wrapper">
-			<article class="entry ">
+			<article class="entry">
 				<h1>{{ page.title }}</h1>
 				{% if page.sideBar %}
 					<div class="pure-g">
@@ -72,7 +72,9 @@
 						</div>
 					</div>
 				{% else %}
-					{{ content }}
+					<div class="entry-content">
+						{{ content }}
+					</div>
 				{% endif %}
 			</article>
 		</div>
