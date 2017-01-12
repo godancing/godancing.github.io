@@ -10,7 +10,8 @@ New to contra dance? We'd love to have you! Be sure to **come at 7pm** for the b
 
 ## Contra Dance Basics
 
-.. video 1
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/14nxFdcaKWA' frameborder='0' allowfullscreen></iframe></div>
 
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/Q0jIr2UWFg4' frameborder='0' allowfullscreen></iframe></div>
 
-.. video 2
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/TaWRWceMrmM' frameborder='0' allowfullscreen></iframe></div>

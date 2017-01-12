@@ -2,7 +2,7 @@
 title: Jan 7, 2017
 date: 2017-01-07 11:00:00 -05:00
 Caller:
-  Name: TBA
+  Name: Open Mic
 Band:
   Name: Scarlet Runner String Band (Lansing, MI)
 ---
