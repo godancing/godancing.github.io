@@ -1,9 +1,0 @@
----
-title: June 3, 2017
-date: 2017-07-03 12:00:00 -04:00
-Caller:
-  Name: TBA
-Band:
-  Name: TBA
----
-
