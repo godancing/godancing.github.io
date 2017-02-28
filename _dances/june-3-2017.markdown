@@ -1,7 +1,7 @@
 ---
 title: June 3, 2017
 date: 2017-06-03 00:00:00 -04:00
-position: 5
+position: 8
 Caller:
   Name: Hilton Baxter (Harrisburg, PA)
 Band:
