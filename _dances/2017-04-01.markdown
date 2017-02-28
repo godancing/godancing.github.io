@@ -4,6 +4,6 @@ date: 2017-04-01 12:00:00 -04:00
 Caller:
   Name: Laurie Pietravalle (Grand Rapids, MI)
 Band:
-  Name: TBA
+  Name: 'Urban Sprawl (Chicago, IL)  '
 ---
 
