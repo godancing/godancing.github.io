@@ -3,7 +3,7 @@ title: About Us
 order: 2
 ---
 
-Who are those folks and what's their purpose, anyway? We first described ourselves as follows: 
+Who are those folks and what's their purpose, anyway? We first described ourselves as follows:  
 
 > "GO Dancing! is a collaborative effort of dancers, callers, musicians, and the people supporting them in and around Goshen, IN." 
 
