@@ -28,10 +28,11 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 ## Board of Directors
 
-* **Jennifer Youngberg**: President
-* **Roy Somerville**: Vice-President
-* **Jill Kaufman**: Secretary
-* **Karen Andrews**: Treasurer
+* **Roy Somerville**: President
+* **Jennifer Youngberg**: Vice-President
+* **Karen Andrews**: Secretary
+* **Elaine Dulaney**: Treasurer
+* **Jill Hostetler**:Treasurer
 
 ## Goshen Area Callers & Musicians
 
