@@ -5,6 +5,7 @@ position: 0
 Caller:
   Name: Carol Steiner
 Band:
-  Name: Spy Run String Band, Fort Wayne, IN
+  Name: "Hybrid of Spy Run String Band, Fort Wayne, IN\nwith The Goat's Beards of
+    Michiana "
 ---
 
