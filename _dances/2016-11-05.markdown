@@ -1,9 +1,9 @@
 ---
-title: Nov 5, 2016
+title: October 7, 2017
 date: 2016-11-05 12:00:00 -04:00
 position: 1
 Caller:
-  Name: Casey Mullaney (South Bend, IN)
+  Name: Barry Dupen, from Columbia City, IN
 Band:
   Name: Riverrun country dance band  (South Bend, IN)
 ---
