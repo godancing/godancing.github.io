@@ -3,13 +3,13 @@ title: About Us
 order: 2
 ---
 
-Who are those folks and what's their purpose, anyway? We first described ourselves as follows:  
+Who are those folks and what's their purpose, anyway? We first described ourselves as follows:
 
-> "GO Dancing! is a collaborative effort of dancers, callers, musicians, and the people supporting them in and around Goshen, IN." 
+> "GO Dancing! is a collaborative effort of dancers, callers, musicians, and the people supporting them in and around Goshen, IN."
 
 We're a bit more formal now. The information below is from Article 2 of the Bylaws of Goshen Community Contra Dancing:
 
-> GO Dancing! is a nonprofit community based educational organization with the following aims: 
+> GO Dancing! is a nonprofit community based educational organization with the following aims:
 >
 > 1. To encourage the practice and promote the knowledge of American traditional folk dance, music, and song.
 >
@@ -21,18 +21,25 @@ We're a bit more formal now. The information below is from Article 2 of the Byla
 
 We achieved 501(c)3 status in October, 2002 with the help of the [Country Dance and Song Society (CDSS)](http://www.cdss.org/). GO Dancing! is now a Group Affiliate member of CDSS.
 
-Those of us working to organize the events are grateful for the incredible response this community has shown. We hope that you will join us in this wonderful experience of music, dance, and community building. 
+Those of us working to organize the events are grateful for the incredible response this community has shown. We hope that you will join us in this wonderful experience of music, dance, and community building.
 
 ## What gifts and strengths might you contribute?
+
 We hold once-monthly organizing meetings to make this all happen. Please contact us with your suggestions or with any questions. Feel free to contact members of our Board of Directors or simply email us at [info.godancing@gmail.com](mailto:info.godancing@gmail.com). Thank you!
 
 ## Board of Directors
 
 * **Roy Somerville**: President
-* **Jennifer Youngberg**: Vice-President
-* **Karen Andrews**: Secretary
+
+* **Richard Wineland**:  Vice President 
+
+* **Debra Mast**:  Secretary
+
 * **Elaine Dulaney**: Treasurer
-* **Jill Hostetler**:Treasurer
+
+* **Jennifer Youngberg**: At large 
+
+* **Karen Andrews**: At Large 
 
 ## Goshen Area Callers & Musicians
 
@@ -72,12 +79,20 @@ Tom Goodwin: Bass
 
 ## Regional Dance Groups
 
-* [**Fort Wayne** Traditional Music and Dance Society (FWTMDS)](http://www.contrafortwayne.org)
-* [**South Bend** Contra Dancers](http://www.sbcontras.org/)
-* [**Indianapolis** Traditional Music and Dance Group](http://www.indycontra.org/)
-* [**Bloomington** Old-time Music and Dance Group](http://bloomingtoncontra.org/)
-* [Country Dancing in **Kalamazoo**](http://www.albion.edu/math/ram/cdk/)
-* [Grand River Folk Arts Society, **Grand Rapids**](http://www.grfolkarts.org/)
-* [**Ann Arbor** Council for Traditional Music and Dance](http://aactmad.org/)
-* [**Chicago** Barn Dance Company](http://www.chicagobarndance.com/)
-* [**Northwest Ohio** Traditional Music and Dance](http://www.notmad.org/)
+* **[Fort Wayne](http://www.contrafortwayne.org)**[ Traditional Music and Dance Society (FWTMDS)](http://www.contrafortwayne.org)
+
+* **[South Bend](http://www.sbcontras.org/)**[ Contra Dancers](http://www.sbcontras.org/)
+
+* **[Indianapolis](http://www.indycontra.org/)**[ Traditional Music and Dance Group](http://www.indycontra.org/)
+
+* **[Bloomington](http://bloomingtoncontra.org/)**[ Old-time Music and Dance Group](http://bloomingtoncontra.org/)
+
+* [Country Dancing in ](http://www.albion.edu/math/ram/cdk/)**[Kalamazoo](http://www.albion.edu/math/ram/cdk/)**
+
+* [Grand River Folk Arts Society, ](http://www.grfolkarts.org/)**[Grand Rapids](http://www.grfolkarts.org/)**
+
+* **[Ann Arbor](http://aactmad.org/)**[ Council for Traditional Music and Dance](http://aactmad.org/)
+
+* **[Chicago](http://www.chicagobarndance.com/)**[ Barn Dance Company](http://www.chicagobarndance.com/)
+
+* **[Northwest Ohio](http://www.notmad.org/)**[ Traditional Music and Dance](http://www.notmad.org/)
