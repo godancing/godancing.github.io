@@ -1,6 +1,7 @@
 ---
 title: Feb 3, 2018
 date: 2017-02-04 11:00:00 -05:00
+published: false
 position: 4
 Band:
   Name: 'Soltre (Michiana) '
