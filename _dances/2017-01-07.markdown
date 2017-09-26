@@ -1,10 +1,10 @@
 ---
-title: Jan 6, 2018
+title: December 2, 2017
 date: 2017-12-02 19:00:00 -05:00
 position: 3
 Caller:
-  Name: Open Mic
+  Name: Dwayne Johnson, Goshen, IN
 Band:
-  Name: Scarlet Runner String Band (Lansing, MI)
+  Name: 'Band O'' Goshen, Goshen, IN '
 ---
 
