@@ -1,6 +1,7 @@
 ---
 title: December 2, 2017
 date: 2017-12-02 19:00:00 -05:00
+published: false
 position: 3
 Caller:
   Name: Dwayne Johnson, Goshen, IN
