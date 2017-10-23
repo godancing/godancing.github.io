@@ -1,6 +1,6 @@
 ---
 title: January 6, 2018
-date: 2017-10-23 09:26:00 -04:00
+date: 2017-01-06 00:00:00 -05:00
 Caller:
   Name: TBD
 Band:
