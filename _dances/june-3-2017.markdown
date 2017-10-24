@@ -1,6 +1,6 @@
 ---
-title: June 3, 2017
-date: 2017-06-03 00:00:00 -04:00
+title: June 2, 2018
+date: 2018-06-02 19:00:00 -04:00
 position: 8
 Caller:
   Name: Hilton Baxter (Harrisburg, PA)
