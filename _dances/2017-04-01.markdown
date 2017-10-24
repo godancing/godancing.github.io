@@ -1,10 +1,10 @@
 ---
 title: April 1, 2017
-date: 2017-04-01 12:00:00 -04:00
+date: 2018-04-07 19:00:00 -04:00
 position: 6
 Caller:
-  Name: Laurie Pietravalle (Grand Rapids, MI)
+  Name: Mike Clark, Kalamazoo, MI
 Band:
-  Name: 'Urban Sprawl (Chicago, IL)  '
+  Name: 'TBD '
 ---
 
