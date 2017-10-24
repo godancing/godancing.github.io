@@ -13,6 +13,8 @@ tags:
 - Soltre
 - fiddle
 position: 4
+Caller:
+  Name: Casey Mullaney, South Bend, IN
 Band:
   Name: 'Soltre (Michiana) '
 ---
