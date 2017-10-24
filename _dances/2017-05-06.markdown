@@ -1,9 +1,9 @@
 ---
-title: May 6, 2017
-date: 2017-05-06 12:00:00 -04:00
+title: May 5, 2018
+date: 2018-05-05 19:00:00 -04:00
 position: 7
 Caller:
-  Name: 'Casey Mullaney (South Bend, IN)  '
+  Name: Barry Dupen, Columbia City, IN
 Band:
   Name: Band O' Goshen (Goshen, IN)
 ---
