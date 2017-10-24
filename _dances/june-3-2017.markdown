@@ -3,8 +3,10 @@ title: June 2, 2018
 date: 2018-06-02 19:00:00 -04:00
 position: 8
 Caller:
-  Name: Hilton Baxter (Harrisburg, PA)
+  Name: Laurie Pietrovale, Grand Rapids, MI
 Band:
-  Name: "The Hoosier Recruits (Valparaiso, IN) \n"
+  Name: 'TBD
+
+'
 ---
 
