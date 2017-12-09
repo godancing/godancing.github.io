@@ -17,7 +17,7 @@ function debounce(func, wait) {var timeout;return function() {var context = this
 	// Based on number of menu items, set height of opened mobile nav
 	var itemsCount = navMenu.querySelectorAll('li').length;
 	var navOpenHeight = 4 + ( itemsCount * 2.375 ) + 'em';
-	stylesheets[0].addRule('nav.nav--open', 'height: ' + navOpenHeight, 1 );
+	stylesheets[0].insertRule('nav.nav--open { height: ' + navOpenHeight + ' } ' );
 
 
 	function toggleHorizontal() 
