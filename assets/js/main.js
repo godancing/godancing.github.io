@@ -106,16 +106,15 @@ function debounce(func, wait) {var timeout;return function() {var context = this
 		.map(function(row) {
 
 			// Date(2017,11,2) -> 2017/11/2
-			var ymd = row.date.split('(')[1].split(')')[0].replace(/,/g,'/');
+			var ymd = row.date.split('(')[1].split(')')[0].split(',');
 
 			// Skip past dances
-			if ( today > (new Date( ymd )).setHours(0,0,0,0) ) {
+			if ( today > (new Date( ymd[0] +'/'+ (parseInt(ymd[1], 10) + 1) +'/'+ ymd[2] )).setHours(0,0,0,0) ) {
 				console.log('Skipping past dance ', ymd);
 				return '';
 			}
 
 			// Format date nicely
-			ymd = ymd.split('/');
 			var date = months[ymd[1]] + ' ' + ymd[2] + ', ' + ymd[0];
 
 			return danceListItem(date, row.band, row.caller, row.notes);
