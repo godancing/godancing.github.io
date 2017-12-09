@@ -84,7 +84,10 @@
 		</div>
 
 		<p class="centered-wrapper copyright">
-			© <script>document.write(new Date().getFullYear())</script> Goshen Community Contra Dancing | Design by <a href="http://micahjon.com">Micah</a>
+			© <span id="js-current-year"></span> Goshen Community Contra Dancing | Design by <a href="http://micahjon.com">Micah</a>
+			<script>
+				document.getElementById('js-current-year').textContent = new Date().getFullYear();
+			</script>
 		</p>
 
 	</main>
