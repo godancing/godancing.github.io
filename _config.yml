@@ -2,9 +2,6 @@
 title: Goshen Community Contra Dancing
 timezone: America/New_York
 collections:
-  dances:
-    title: Dances
-    output: false
   posts:
     title: Posts
     output: true
@@ -17,14 +14,4 @@ defaults:
     type: pages
   values:
     layout: page
-- scope:
-    path: ''
-    type: dances
-  values:
-    Caller:
-      Name: Caller Name (Location)
-      Website: ''
-    Band:
-      Name: Band Name (Location)
-      Website: ''
 permalink: pretty

@@ -1,41 +1,9 @@
-{% comment %} Display up to 5 upcoming dances {% endcomment %}
-{% comment %} 
-	{% assign today = 'now' | date: '%Y-%m-%d' %}
-	{% assign danceCount = 5 %}
-{% endcomment %}
-
 <div class="dances">
 	<h2 class="dances__title">Upcoming Dances</h2>
 	<ul id="dances__list" class="dances__list">
 		{% comment %}
-
 		Dances are now loaded from a Google Spreadsheet:
 		https://docs.google.com/spreadsheets/d/1mfHqB8o9GxbhMH-v7A2PWNJeHar-OE2CPwx2JMXMPtA/edit#gid=0
-
-		{% for dance in site.dances %}
-			{% assign dayOfDance = dance.date | date: '%Y-%m-%d' %}
-			{% if dayOfDance >= today and danceCount > 0 %}
-				{% assign danceCount = danceCount | minus:1 %}
-				<li class="dance">
-					<h3 class="dance__title">{{ dance.date | date: '%B %-d, %Y' }}</h3>
-					<p>
-						<strong>Caller:</strong>
-						{% if dance.Caller.Website != '' %}
-							<a href="{{dance.Caller.Website}}" target="_blank">{{ dance.Caller.Name }}</a>
-						{% else %}
-							{{ dance.Caller.Name }}
-						{% endif %}
-						
-						<br><strong>Band:</strong>
-						{% if dance.Band.Website != '' %}
-							<a href="{{dance.Band.Website}}" target="_blank">{{ dance.Band.Name }}</a>
-						{% else %}
-							{{ dance.Band.Name }}
-						{% endif %}
-					</p>
-				</li>
-			{% endif %}
-		{% endfor %}
 		{% endcomment %}
 	</ul>
 </div>
