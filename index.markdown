@@ -36,7 +36,7 @@ Goshen, IN<br>
 **Children under 12:** Free<br>
 **Family maximum cost:** $18<br>
 
-Learn how to [become a member](/join).
+Learn how to [become a member](/join/).
 
 ## What to wear
 Layers of comfortable, lightweight clothing and shoes for active movement.
