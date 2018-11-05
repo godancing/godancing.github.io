@@ -1,2 +1,3 @@
-# godancing.github.io
-Goshen Community Contra Dancing
+# godancing.org
+
+The official website for Goshen Community Contra Dancing in Goshen, IN.
