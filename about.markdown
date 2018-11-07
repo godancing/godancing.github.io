@@ -29,21 +29,23 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 ## Board of Directors
 
-* **Roy Somerville**: President
+* **Andrea Houghton**: President
 
-* **Richard Wineland**:  Vice President 
+* **Roy Summerville**:  Vice President 
 
 * **Debra Mast**:  Secretary
 
-* **Elaine Dulaney**: Treasurer
+* **John David Thacker**: Treasurer
 
-* **Jennifer Youngberg**: At large 
+* **Dwayne Johnson**: At large 
 
 * **Karen Andrews**: At Large 
 
 ## Goshen Area Callers & Musicians
 
 **Barry Dupen**: Caller ([email](mailto:barry.dupen@gmail.com))
+
+**Dwayne Johnson**: Caller ([email](mailto:dwayne.johnson09@gmail.com))
 
 **Karen Andrews**: Caller ([email](mailto:kacog49@verizon.net))
 
