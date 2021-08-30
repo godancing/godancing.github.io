@@ -45,4 +45,3 @@ You'll be dancing on a springy wood floor!
 
 ## Questions?
 Email [info.godancing@gmail.com](mailto:info.godancing@gmail.com) or call (574) 533-3836.
-	
