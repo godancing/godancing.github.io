@@ -14,11 +14,11 @@ order: 1
 - Live music by local & regional bands.
 
 ## Time
-**Beginners' workshop:** 7 - 7:30 pm EST<br>
-**Contra Dance:** 7:30 - 10:30 pm EST
+**Beginners' workshop:** 6:30 - 7:00 pm EST<br>
+**Contra Dance:** 7:00 - 10:00 pm EST
 
 ## Place
-First United Methodist Church<br>
+Goshen First Church<br>
 215 South 5th St.<br>
 Goshen, IN<br>
 
