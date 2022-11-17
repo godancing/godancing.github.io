@@ -84,7 +84,7 @@ Tom Goodwin: Bass
 
 * **[Bloomington](http://bloomingtoncontra.org/)**[ Old-time Music and Dance Group](http://bloomingtoncontra.org/)
 
-* [Country Dancing in ](http://https://www.countrydancinginkalamazoo.com/)**[Kalamazoo](http://https://www.countrydancinginkalamazoo.com/)**
+* [Country Dancing in ](https://www.countrydancinginkalamazoo.com/)**[Kalamazoo](https://www.countrydancinginkalamazoo.com/)**
 
 * **[Grand River Folk Arts Society, ](http://www.grfolkarts.org/)**[Grand Rapids](http://www.grfolkarts.org/)
 
