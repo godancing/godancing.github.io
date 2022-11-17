@@ -29,17 +29,17 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 ## Board of Directors
 
-* **Roy Somerville**: President
+* **Andrea Houghton**: President
 
-* **Richard Wineland**:  Vice President 
+* **Roy Somerville**:  Vice President 
 
 * **Debra Mast**:  Secretary
 
-* **Elaine Dulaney**: Treasurer
+* **Hardy Jones**: Treasurer
 
-* **Jennifer Youngberg**: At large 
+* **Adam Polhemus**: At large 
 
-* **Karen Andrews**: At Large 
+* **Dwayne Johnson**: At Large 
 
 ## Goshen Area Callers & Musicians
 
@@ -65,11 +65,6 @@ Marilyn Branch: bass & flatfoot clogging<br>
 
 **Liza & Mark Woolever:** Fiddle, guitar, harmonica ([email](catwithafiddle@hotmail.com))
 
-**The Goldmine Pickers**: Americana, bluegrass ([website](http://www.goldminepickers.com/))<br>
-Jay Lapp: mandolin, guitar, vocals<br>
-Lukas Simpson: guitar, mandolin, vocals<br>
-Sean Hoffman: fiddle<br>
-Brian Cook: bass
 
 **Root Cellar String Band**: Old-time stringband and vocals <br>
 Lucy Long: Fiddle (contact person: 419-372-7862, [email](mailto:LucyL@bgsu.edu))<br>
@@ -83,16 +78,16 @@ Tom Goodwin: Bass
 
 * **[South Bend](http://www.sbcontras.org/)**[ Contra Dancers](http://www.sbcontras.org/)
 
+* **[Valparaiso](http://https://valpo.chicagobarndance.com/)**[ Oldtime Dance Society](http://https://valpo.chicagobarndance.com/)
+
 * **[Indianapolis](http://www.indycontra.org/)**[ Traditional Music and Dance Group](http://www.indycontra.org/)
 
 * **[Bloomington](http://bloomingtoncontra.org/)**[ Old-time Music and Dance Group](http://bloomingtoncontra.org/)
 
-* [Country Dancing in ](http://www.albion.edu/math/ram/cdk/)**[Kalamazoo](http://www.albion.edu/math/ram/cdk/)**
+* [Country Dancing in ](http://https://www.countrydancinginkalamazoo.com/)**[Kalamazoo](http://https://www.countrydancinginkalamazoo.com/)**
 
-* [Grand River Folk Arts Society, ](http://www.grfolkarts.org/)**[Grand Rapids](http://www.grfolkarts.org/)**
+* **[Grand River Folk Arts Society, ](http://www.grfolkarts.org/)**[Grand Rapids](http://www.grfolkarts.org/)
 
 * **[Ann Arbor](http://aactmad.org/)**[ Council for Traditional Music and Dance](http://aactmad.org/)
 
 * **[Chicago](http://www.chicagobarndance.com/)**[ Barn Dance Company](http://www.chicagobarndance.com/)
-
-* **[Northwest Ohio](http://www.notmad.org/)**[ Traditional Music and Dance](http://www.notmad.org/)
