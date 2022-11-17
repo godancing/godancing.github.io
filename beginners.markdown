@@ -6,7 +6,7 @@ subheading: Resources for beginners
 order: 3
 ---
 
-New to contra dance? We'd love to have you! Be sure to **come at 7pm** for the beginner's workshop.
+New to contra dance? We'd love to have you! Be sure to **come at 6:30pm** for the beginner's workshop.
 
 ## Contra Dance Basics
 
