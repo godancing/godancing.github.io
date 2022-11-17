@@ -78,7 +78,7 @@ Tom Goodwin: Bass
 
 * **[South Bend](http://www.sbcontras.org/)**[ Contra Dancers](http://www.sbcontras.org/)
 
-* **[Valparaiso](http://https://valpo.chicagobarndance.com/)**[ Oldtime Dance Society](http://https://valpo.chicagobarndance.com/)
+* **[Valparaiso](https://valpo.chicagobarndance.com/)**[ Oldtime Dance Society](https://valpo.chicagobarndance.com/)
 
 * **[Indianapolis](http://www.indycontra.org/)**[ Traditional Music and Dance Group](http://www.indycontra.org/)
 
