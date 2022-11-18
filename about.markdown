@@ -55,8 +55,6 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 **Ed Benner**: Fiddler, Old-Time Fiddle Music; *Dances, Parties, All Occasions*, ([email](mailto:ebennr@earthlink.net))
 
-**David James**: Fiddle, hammered dulcimer, piano or guitar backing Old time and Irish music ([website](http://www.tiompanalley.com/index.htm))
-
 **Celery City Sodbusters**: Traditional American old time music ([email](mlbranch@yahoo.com))<br>
 Richard Whitfield: fiddle<br>
 Jim Cooper: mandolin & harmonica<br>
@@ -64,7 +62,6 @@ Pete Humphries: guitar<br>
 Marilyn Branch: bass & flatfoot clogging<br>
 
 **Liza & Mark Woolever:** Fiddle, guitar, harmonica ([email](catwithafiddle@hotmail.com))
-
 
 **Root Cellar String Band**: Old-time stringband and vocals <br>
 Lucy Long: Fiddle (contact person: 419-372-7862, [email](mailto:LucyL@bgsu.edu))<br>
