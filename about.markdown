@@ -83,7 +83,7 @@ Tom Goodwin: Bass
 
 * [Country Dancing in ](https://www.countrydancinginkalamazoo.com/)**[Kalamazoo](https://www.countrydancinginkalamazoo.com/)**
 
-* **[Grand River Folk Arts Society, ](http://www.grfolkarts.org/)**[Grand Rapids](http://www.grfolkarts.org/)
+* **[Grand River Folk Arts Society, ](https://sites.google.com/view/grandriverfolkarts/home/)**[Grand Rapids](https://sites.google.com/view/grandriverfolkarts/home/)
 
 * **[Ann Arbor](http://aactmad.org/)**[ Council for Traditional Music and Dance](http://aactmad.org/)
 
