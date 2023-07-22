@@ -29,17 +29,17 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 ## Board of Directors
 
-* **Andrea Houghton**: President
+* **Adam Polhemus**: President
 
-* **Roy Somerville**:  Vice President 
+* **Karen Andrews**:  Vice President 
 
-* **Debra Mast**:  Secretary
+* **Abby Rees**:  Secretary
 
-* **Hardy Jones**: Treasurer
+* **Debra Mast**: Treasurer
 
-* **Adam Polhemus**: At large 
+* **Roy Somerville**: At large 
 
-* **Dwayne Johnson**: At Large 
+* **Jason Glover**: At Large 
 
 ## Goshen Area Callers & Musicians
 
