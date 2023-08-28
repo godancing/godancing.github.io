@@ -45,6 +45,8 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 **Barry Dupen**: Caller ([email](mailto:barry.dupen@gmail.com))
 
+**Dwayne Johnson**: Caller ([email](mailto:dwayne.johnson09@gmail.com))
+
 **Karen Andrews**: Caller ([email](mailto:kacog49@verizon.net))
 
 **Les Gustafson-Zook**: International Autoharp Champion, Old-Time Musician and Caller ([website](http://gustafsonzook.com/))
@@ -54,6 +56,16 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 **Kent Dutchersmith**: Musician - bass, cello, guitar, nose-flute! ([email](mailto:dutchersmith@verizon.net))
 
 **Ed Benner**: Fiddler, Old-Time Fiddle Music; *Dances, Parties, All Occasions*, ([email](mailto:ebennr@earthlink.net))
+
+**Soltre**: Band ([website](https://soltreband.com/home))<br>
+Sean Ellsworth-Hoffman: fiddle, guitar, and ukulele<br>
+Eric Fiechtner: bodhran, fiddle, mandolin<br>
+Adam Carter: multi-instrumentalist<br>
+
+**Waterbound String Band** ([youtube promo](https://www.youtube.com/watch?v=WkP4TG6TQV0))<br>
+Steve Seevers: Guitar<br>
+Bev Smith: Fiddle<br>
+Steve Braden: Banjo<br>
 
 **Celery City Sodbusters**: Traditional American old time music ([email](mlbranch@yahoo.com))<br>
 Richard Whitfield: fiddle<br>
