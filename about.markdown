@@ -67,6 +67,19 @@ Steve Seevers: Guitar<br>
 Bev Smith: Fiddle<br>
 Steve Braden: Banjo<br>
 
+**Spyrun String Band** ([email](mkatinsky@gmail.com))<br>
+John Long: Banjo & Guitar<br>
+Jan Long: Dulcimer<br>
+Matthew Katinsky: Fiddle<br>
+Nola Katinsky: Upright Bass<br>
+
+**Riverrun Country Dance Band** ([website](https://www.riverruncountrydanceband.com/))<br>
+Catherine Shoupe: Fiddle & Mandolin<br>
+Patricia Nuyken: Keyboard<br>
+Brian Burchett: Mandolin<br>
+Richard Allen: Accordion<br>
+Eric Tauck: Guitar<br>
+
 **Celery City Sodbusters**: Traditional American old time music ([email](mlbranch@yahoo.com))<br>
 Richard Whitfield: fiddle<br>
 Jim Cooper: mandolin & harmonica<br>
