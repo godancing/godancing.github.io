@@ -80,16 +80,10 @@ Brian Burchett: Mandolin<br>
 Richard Allen: Accordion<br>
 Eric Tauck: Guitar<br>
 
-**Celery City Sodbusters**: Traditional American old time music ([email](mlbranch@yahoo.com))<br>
-Richard Whitfield: fiddle<br>
-Jim Cooper: mandolin & harmonica<br>
-Pete Humphries: guitar<br>
-Marilyn Branch: bass & flatfoot clogging<br>
-
 **Liza & Mark Woolever:** Fiddle, guitar, harmonica ([email](catwithafiddle@hotmail.com))
 
-**Root Cellar String Band**: Old-time stringband and vocals <br>
-Lucy Long: Fiddle (contact person: 419-372-7862, [email](mailto:LucyL@bgsu.edu))<br>
+**Root Cellar String Band**: Old-time stringband and vocals ([email](mailto:LucyL@bgsu.edu)) <br>
+Lucy Long: Fiddle <br>
 Steve O'Regan: Banjo, mandolin<br>
 Dave Strickler: Guitar<br>
 Tom Goodwin: Bass
