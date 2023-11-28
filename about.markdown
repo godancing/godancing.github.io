@@ -49,6 +49,8 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 **Karen Andrews**: Caller ([email](mailto:kacog49@verizon.net))
 
+**Catherine Shoupe** Teacher of Old Time Dance ([email](cshoupe@saintmarys.edu))
+
 **Les Gustafson-Zook**: International Autoharp Champion, Old-Time Musician and Caller ([website](http://gustafsonzook.com/))
 
 **Jim Shenk of Wooden Music**: Guitar and mandolin luthier ([email](mailto:jim.woodenmusic@gmail.com))
@@ -62,7 +64,7 @@ Sean Ellsworth-Hoffman: fiddle, guitar, and ukulele<br>
 Eric Fiechtner: bodhran, fiddle, mandolin<br>
 Adam Carter: multi-instrumentalist<br>
 
-**Waterbound String Band** ([youtube promo](https://www.youtube.com/watch?v=WkP4TG6TQV0))<br>
+**Waterbound String Band** ([youtube promo](https://www.youtube.com/watch?v=WkP4TG6TQV0)) ([email](seeverss@hotmail.com))<br>
 Steve Seevers: Guitar<br>
 Bev Smith: Fiddle<br>
 Steve Braden: Banjo<br>
@@ -89,6 +91,8 @@ Dave Strickler: Guitar<br>
 Tom Goodwin: Bass
 
 ## Regional Dance Groups
+
+* **[Goshen](https://www.facebook.com/groups/1693748424455890/?ref=share&mibextid=NSMWBT)**[ Old Time Social Dancing](https://www.facebook.com/groups/1693748424455890/?ref=share&mibextid=NSMWBT)
 
 * **[Fort Wayne](http://www.contrafortwayne.org)**[ Traditional Music and Dance Society (FWTMDS)](http://www.contrafortwayne.org)
 
