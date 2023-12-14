@@ -45,3 +45,7 @@ You'll be dancing on a springy wood floor!
 
 ## Questions?
 Email [info.godancing@gmail.com](mailto:info.godancing@gmail.com) or call (574) 533-3836.
+
+## Taste of H'aven Dance Weekend 
+June 7-9 in Syracuse, Indiana
+Go to [Taste of H'aven](https://www.contracorners.net/events/taste-of-haven-2024/) for more information.
