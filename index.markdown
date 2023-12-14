@@ -51,5 +51,4 @@ June 7-9 in Syracuse, Indiana
 Go to [Taste of H'aven](https://www.contracorners.net/events/taste-of-haven-2024/) for more information.
 
 
-image: "/uploads/2023 Contra.jpg"
 
