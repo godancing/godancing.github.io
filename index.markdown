@@ -50,5 +50,4 @@ Email [info.godancing@gmail.com](mailto:info.godancing@gmail.com) or call (574) 
 June 7-9 in Syracuse, Indiana
 Go to [Taste of H'aven](https://www.contracorners.net/events/taste-of-haven-2024/) for more information.
 
-
-
+[Ticket Link](https://tasteofhaven.ticketspice.com/taste-of-haven-dance-weekend)
