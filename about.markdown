@@ -39,7 +39,9 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 * **Roy Somerville**: At large 
 
-* **Jason Glover**: At Large 
+* **Jason Glover**: At Large
+
+* **Julian Gonzalez**: At Large
 
 ## Goshen Area Callers & Musicians
 
