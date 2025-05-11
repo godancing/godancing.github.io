@@ -29,17 +29,15 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 ## Board of Directors
 
-* **Adam Polhemus**: President
+* **Abby Reese**: President
 
-* **Karen Andrews**:  Vice President 
+* **Roy Somerville**:  Vice President 
 
-* **Abby Rees**:  Secretary
+* **Laura Polhemus**:  Secretary
 
-* **Debra Mast**: Treasurer
+* **James Polhemus**: Treasurer
 
-* **Roy Somerville**: At large 
-
-* **Jason Glover**: At Large
+* **AdamPolhemus**: At large 
 
 * **Julian Gonzalez**: At Large
 
