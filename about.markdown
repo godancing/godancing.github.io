@@ -37,7 +37,7 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 * **James Polhemus**: Treasurer
 
-* **AdamPolhemus**: At large 
+* **Adam Polhemus**: At large 
 
 * **Julian Gonzalez**: At Large
 
