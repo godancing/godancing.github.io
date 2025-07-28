@@ -39,8 +39,6 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 * **Adam Polhemus**: At large 
 
-* **Julian Gonzalez**: At Large
-
 ## Goshen Area Callers & Musicians
 
 **Barry Dupen**: Caller ([email](mailto:barry.dupen@gmail.com))
