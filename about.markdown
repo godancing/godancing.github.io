@@ -57,7 +57,7 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 **Ed Benner**: Fiddler, Old-Time Fiddle Music; *Dances, Parties, All Occasions*, ([email](mailto:ebennr@earthlink.net))
 
-**Soltre**: Band ([website](https://soltreband.com/home))<br>
+**Soltre**: Band ([Facebook](https://www.facebook.com/soltreband/))<br>
 Sean Ellsworth-Hoffman: fiddle, guitar, and ukulele<br>
 Eric Fiechtner: bodhran, fiddle, mandolin<br>
 Adam Carter: multi-instrumentalist<br>
@@ -91,8 +91,6 @@ Tom Goodwin: Bass
 ## Regional Dance Groups
 
 * **[Goshen](https://www.facebook.com/groups/1693748424455890/?ref=share&mibextid=NSMWBT)**[ Old Time Social Dancing](https://www.facebook.com/groups/1693748424455890/?ref=share&mibextid=NSMWBT)
-
-* **[Fort Wayne](http://www.contrafortwayne.org)**[ Traditional Music and Dance Society (FWTMDS)](http://www.contrafortwayne.org)
 
 * **[South Bend](http://www.sbcontras.org/)**[ Contra Dancers](http://www.sbcontras.org/)
 
