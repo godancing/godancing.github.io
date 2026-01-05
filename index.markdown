@@ -19,7 +19,7 @@ order: 1
 
 ## Place
 Goshen First Church<br>
-215 South 5th St.<br>
+214 South 5th St.<br>
 Goshen, IN<br>
 
 <a class="pure-button pure-button-outline" href="https://goo.gl/maps/rx566tSNLCR2" target="_blank">
