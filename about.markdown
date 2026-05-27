@@ -37,7 +37,9 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 * **James Polhemus**: Treasurer
 
-* **Adam Polhemus**: At large 
+* **Adam Polhemus**: At large
+  
+* **Karen Andrews**: Emeritus
 
 ## Goshen Area Callers & Musicians
 
@@ -57,8 +59,9 @@ We hold once-monthly organizing meetings to make this all happen. Please contact
 
 **Ed Benner**: Fiddler, Old-Time Fiddle Music; *Dances, Parties, All Occasions*, ([email](mailto:ebennr@earthlink.net))
 
-**Soltre**: Band ([Facebook](https://www.facebook.com/soltreband/))<br>
-Sean Ellsworth-Hoffman: fiddle, guitar, and ukulele<br>
+**Soltre**: Band ([Website](https://bobcatopossum.com/soltre/)) ([Facebook](https://www.facebook.com/soltreband/))<br>
+Sean Hoffman: fiddle, guitar, and ukulele<br>
+Ellen Coplin: Piano, cello<br>
 Eric Fiechtner: bodhran, fiddle, mandolin<br>
 Adam Carter: multi-instrumentalist<br>
 
