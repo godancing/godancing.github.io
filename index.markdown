@@ -12,6 +12,7 @@ order: 1
 - Contras, Squares, Circles & Waltzes!
 - No experience or partner needed. Dances led by experienced callers.
 - Live music by local & regional bands.
+- Celebrating our 25th Season dancing in Goshen
 
 ## Time
 **Beginners' workshop:** 6:30 - 7:00 pm EST<br>
@@ -31,11 +32,12 @@ Goshen, IN<br>
 </a>
 
 ## Cost
-**General Public:** Non-members $8, Members $6<br>
-**Students:** Non-members $5, Members $3<br>
-**Children under 12:** Free<br>
-**Family maximum cost:** $18<br>
+**Starting in May, 2026**<br>
+**Pay what you can. Suggested donation of $5-$20**<br>
+**We are a non-profit and 100% of our proceeds go back into putting on the best dance possible**<br>
 
+**Memberships: Individual $25, Family $50**<br>
+**Members get a name tag button, sticker, and other perks throughout the season**<br>
 Learn how to [become a member](/join/).
 
 ## What to wear
