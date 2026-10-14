@@ -25,20 +25,22 @@ Those of us working to organize the events are grateful for the incredible respo
 
 ## What gifts and strengths might you contribute?
 
-We hold once-monthly organizing meetings to make this all happen. Please contact us with your suggestions or with any questions. Feel free to contact members of our Board of Directors or simply email us at [info.godancing@gmail.com](mailto:info.godancing@gmail.com). Thank you!
+We hold regular organizing meetings to make this all happen. Please contact us with your suggestions or with any questions. Feel free to contact members of our Board of Directors or simply email us at [info.godancing@gmail.com](mailto:info.godancing@gmail.com). Thank you!
 
 ## Board of Directors
 
 * **Abby Reese**: President
 
-* **Roy Somerville**:  Vice President 
+* **JamesPolhemus**:  Vice President 
 
 * **Laura Polhemus**:  Secretary
 
-* **James Polhemus**: Treasurer
+* **Deb Mast**: Treasurer
 
 * **Adam Polhemus**: At large
-  
+
+* **Roy Somerville**: At large
+
 * **Karen Andrews**: Emeritus
 
 ## Goshen Area Callers & Musicians
